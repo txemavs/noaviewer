@@ -1,4 +1,8 @@
 # noaviewer
-Image resizer
+App to find and resize images.
 
-This is a small python application with a Tkinter user interface. Needs Python Imaging Library to resize the images.
+It's a dirty weekend project in 2009, it's just here to have examples of:
+ * A small python application with a Tkinter user interface. 
+ * How to edit images with Python Imaging Library
+
+Labels are in spanish.
